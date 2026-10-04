@@ -1,0 +1,301 @@
+Customer_ID,Age,Annual_Income,Spending_Score,Purchase_Frequency,Average_Order_Value,Website_Visits,Discount_Usage,Cluster,Customer_Segment
+1,29,95297,77,18,993,12,63,2,Regular Customers
+2,25,45997,89,14,7180,23,43,3,High Value Customers
+3,52,43362,47,18,7354,24,93,4,Premium Customers
+4,57,67283,19,9,8559,38,68,0,Budget Customers
+5,29,23341,1,18,3990,37,91,0,Budget Customers
+6,58,112870,17,24,2264,16,63,0,Budget Customers
+7,58,105435,37,14,1568,10,38,2,Regular Customers
+8,39,149505,57,3,7340,37,94,3,High Value Customers
+9,28,132877,7,5,2404,37,53,3,High Value Customers
+10,24,22853,54,20,7313,25,81,4,Premium Customers
+11,47,104041,46,5,4936,3,70,4,Premium Customers
+12,57,63879,89,18,3956,2,16,2,Regular Customers
+13,44,110690,44,22,641,23,74,2,Regular Customers
+14,47,74019,93,17,3415,35,31,0,Budget Customers
+15,23,117242,65,17,2406,21,72,3,High Value Customers
+16,51,99262,8,17,2258,44,33,0,Budget Customers
+17,40,54024,36,13,7526,39,78,0,Budget Customers
+18,24,90864,7,20,4565,21,52,3,High Value Customers
+19,50,127179,24,21,3536,44,37,0,Budget Customers
+20,57,116686,5,29,845,44,21,0,Budget Customers
+21,60,25599,4,29,7435,5,83,4,Premium Customers
+22,61,136465,58,16,3111,34,69,0,Budget Customers
+23,41,88483,70,28,6064,33,95,0,Budget Customers
+24,41,116996,60,24,6548,25,41,1,Occasional Customers
+25,42,24893,29,6,8123,16,56,4,Premium Customers
+26,64,31066,21,4,6622,3,64,4,Premium Customers
+27,20,44976,78,6,4671,44,69,3,High Value Customers
+28,64,114381,30,9,1841,28,78,0,Budget Customers
+29,61,130339,46,19,6626,28,90,0,Budget Customers
+30,55,69092,47,6,9279,12,82,4,Premium Customers
+31,32,21869,16,5,9745,36,82,4,Premium Customers
+32,63,104061,82,11,3033,48,54,0,Budget Customers
+33,40,120604,77,26,5251,49,90,0,Budget Customers
+34,38,36166,78,12,1199,46,79,0,Budget Customers
+35,25,123444,12,12,7874,34,36,3,High Value Customers
+36,59,123758,70,7,5554,40,11,1,Occasional Customers
+37,34,48992,14,2,689,28,91,4,Premium Customers
+38,47,120478,67,13,2003,46,41,0,Budget Customers
+39,45,104567,5,25,7646,30,34,1,Occasional Customers
+40,18,99451,27,11,5492,23,68,3,High Value Customers
+41,25,142741,99,3,1313,33,66,3,High Value Customers
+42,62,132713,78,14,2610,47,77,0,Budget Customers
+43,54,59861,36,10,2653,46,30,0,Budget Customers
+44,36,22278,32,15,7405,20,4,4,Premium Customers
+45,45,77915,28,27,2969,5,21,2,Regular Customers
+46,36,143894,56,4,7629,10,97,3,High Value Customers
+47,38,111769,77,26,748,5,51,2,Regular Customers
+48,20,79046,12,12,6938,40,97,3,High Value Customers
+49,20,72421,68,10,1177,21,17,2,Regular Customers
+50,36,116756,99,25,9300,9,37,1,Occasional Customers
+51,27,139151,56,2,1060,18,50,3,High Value Customers
+52,56,70169,41,16,1015,38,14,0,Budget Customers
+53,36,23859,15,17,6651,6,25,4,Premium Customers
+54,31,119353,1,15,6603,42,51,3,High Value Customers
+55,37,47428,24,12,3846,36,10,4,Premium Customers
+56,60,85778,3,24,3550,23,29,0,Budget Customers
+57,44,83327,99,10,2327,18,51,2,Regular Customers
+58,33,105141,66,13,7029,16,55,3,High Value Customers
+59,44,59487,11,17,3357,12,83,4,Premium Customers
+60,37,59843,10,24,4972,28,39,4,Premium Customers
+61,46,148518,50,20,6577,12,4,1,Occasional Customers
+62,21,132037,95,23,2083,14,2,2,Regular Customers
+63,33,144848,16,1,2528,2,93,3,High Value Customers
+64,33,67506,91,6,6565,24,25,3,High Value Customers
+65,36,110236,50,22,7762,22,31,1,Occasional Customers
+66,20,126210,34,26,6817,44,72,3,High Value Customers
+67,31,85229,38,9,6058,32,84,3,High Value Customers
+68,39,33249,30,9,3396,4,13,4,Premium Customers
+69,35,85123,90,18,711,8,50,2,Regular Customers
+70,47,67718,64,5,2027,21,6,2,Regular Customers
+71,26,61248,9,2,4723,1,53,4,Premium Customers
+72,59,45976,29,19,2921,36,96,0,Budget Customers
+73,32,86757,19,4,4537,9,11,4,Premium Customers
+74,21,100185,91,28,6889,22,35,2,Regular Customers
+75,35,72014,51,19,5616,48,56,0,Budget Customers
+76,55,119653,50,29,9102,14,60,1,Occasional Customers
+77,48,104706,89,20,6564,6,94,2,Regular Customers
+78,28,64491,77,24,9415,24,50,3,High Value Customers
+79,26,84080,94,17,1740,6,20,2,Regular Customers
+80,49,92991,57,7,7361,3,4,1,Occasional Customers
+81,38,134010,19,10,4009,21,69,3,High Value Customers
+82,28,34665,90,1,3491,37,63,3,High Value Customers
+83,54,41763,24,26,2322,3,96,4,Premium Customers
+84,23,62809,75,18,7659,15,36,3,High Value Customers
+85,46,64705,66,22,5580,10,88,4,Premium Customers
+86,55,55189,97,24,2768,30,49,0,Budget Customers
+87,32,47336,19,16,8715,5,88,4,Premium Customers
+88,53,83229,77,18,5638,17,3,1,Occasional Customers
+89,39,62308,57,1,1598,9,75,4,Premium Customers
+90,48,54423,78,29,2998,3,48,2,Regular Customers
+91,28,42967,59,19,8233,43,11,0,Budget Customers
+92,47,37334,2,25,9791,21,77,4,Premium Customers
+93,46,133177,48,16,3189,10,25,2,Regular Customers
+94,32,37759,49,21,3447,40,72,0,Budget Customers
+95,42,38464,35,19,9844,17,63,4,Premium Customers
+96,45,90076,5,19,5414,39,61,0,Budget Customers
+97,54,40466,9,8,5664,2,11,4,Premium Customers
+98,47,27596,75,8,7992,26,14,4,Premium Customers
+99,37,127046,92,20,1582,11,75,2,Regular Customers
+100,18,56327,68,23,2501,41,81,0,Budget Customers
+101,35,64714,36,1,774,47,95,0,Budget Customers
+102,56,59051,98,6,6558,19,73,4,Premium Customers
+103,52,120306,58,14,9320,24,17,1,Occasional Customers
+104,26,27405,43,11,5216,33,16,4,Premium Customers
+105,33,49195,60,8,1177,29,77,0,Budget Customers
+106,39,34835,99,19,512,4,5,2,Regular Customers
+107,24,113924,82,29,1841,8,99,2,Regular Customers
+108,33,52406,53,17,4323,35,59,0,Budget Customers
+109,43,50165,59,5,9026,9,54,4,Premium Customers
+110,51,91939,69,11,7602,21,77,3,High Value Customers
+111,30,139236,76,19,7067,29,11,1,Occasional Customers
+112,18,104027,79,5,3344,9,6,2,Regular Customers
+113,43,46371,21,18,7369,6,97,4,Premium Customers
+114,47,105234,46,27,8197,16,96,0,Budget Customers
+115,24,60967,69,10,8849,5,75,3,High Value Customers
+116,28,134299,59,22,3679,25,88,3,High Value Customers
+117,25,79664,85,27,3628,8,62,2,Regular Customers
+118,33,137396,36,27,7949,12,40,1,Occasional Customers
+119,56,115840,29,21,8628,25,14,1,Occasional Customers
+120,38,52937,82,24,6552,29,39,0,Budget Customers
+121,59,95834,20,28,718,8,1,2,Regular Customers
+122,46,78683,24,22,6934,27,98,0,Budget Customers
+123,18,148567,65,27,3024,15,26,2,Regular Customers
+124,34,120844,63,11,1322,21,78,3,High Value Customers
+125,62,53907,77,5,1787,33,83,0,Budget Customers
+126,34,86880,98,12,3095,16,25,2,Regular Customers
+127,40,70719,35,3,7203,6,68,4,Premium Customers
+128,31,146571,49,17,5887,7,68,3,High Value Customers
+129,29,108503,8,25,3240,23,12,2,Regular Customers
+130,45,124013,55,10,9174,22,61,1,Occasional Customers
+131,51,44257,29,18,6626,15,78,4,Premium Customers
+132,21,132660,56,2,6016,22,71,3,High Value Customers
+133,29,32624,63,19,6792,22,21,4,Premium Customers
+134,28,25990,87,2,9618,24,51,3,High Value Customers
+135,46,139636,8,14,9923,2,76,1,Occasional Customers
+136,60,27090,59,4,6294,34,81,0,Budget Customers
+137,43,145817,6,28,2022,3,77,2,Regular Customers
+138,52,95512,36,27,3374,31,14,0,Budget Customers
+139,19,70588,100,25,1962,8,37,2,Regular Customers
+140,47,48954,47,28,5802,37,68,0,Budget Customers
+141,26,110308,69,3,2916,4,57,3,High Value Customers
+142,22,142961,53,5,6247,15,23,3,High Value Customers
+143,44,33371,20,18,1714,38,36,0,Budget Customers
+144,37,52595,12,5,7830,41,84,4,Premium Customers
+145,48,45866,28,9,1412,11,44,4,Premium Customers
+146,62,90083,87,15,5602,31,44,0,Budget Customers
+147,52,42633,39,28,5326,14,88,4,Premium Customers
+148,35,84075,52,4,2133,13,27,2,Regular Customers
+149,32,36027,52,6,6382,9,7,4,Premium Customers
+150,18,49184,64,5,6027,31,91,3,High Value Customers
+151,21,126641,89,7,6038,40,3,3,High Value Customers
+152,33,111092,57,8,1795,10,76,3,High Value Customers
+153,25,77490,89,25,3126,17,3,2,Regular Customers
+154,40,145560,27,3,8119,21,19,1,Occasional Customers
+155,51,54615,69,24,8754,23,89,0,Budget Customers
+156,44,42309,69,27,3023,24,49,2,Regular Customers
+157,30,103557,22,20,3338,19,13,2,Regular Customers
+158,62,62322,66,23,8800,4,43,1,Occasional Customers
+159,39,139364,75,22,2419,21,34,2,Regular Customers
+160,51,54251,58,6,7825,7,29,4,Premium Customers
+161,63,117275,7,6,8010,20,42,1,Occasional Customers
+162,27,31849,49,26,1668,9,86,2,Regular Customers
+163,60,82316,96,7,3617,40,36,0,Budget Customers
+164,49,38609,31,29,8892,25,97,0,Budget Customers
+165,28,88137,18,19,2074,34,66,0,Budget Customers
+166,38,136533,80,24,4848,17,68,2,Regular Customers
+167,43,63387,41,15,5678,29,85,0,Budget Customers
+168,24,35049,33,25,7035,45,13,0,Budget Customers
+169,24,88931,84,28,9369,8,31,2,Regular Customers
+170,33,100972,80,18,8345,28,61,3,High Value Customers
+171,54,128597,54,26,9748,22,65,1,Occasional Customers
+172,49,67094,37,12,5397,35,15,0,Budget Customers
+173,56,64062,22,4,9707,33,99,4,Premium Customers
+174,31,44548,26,27,536,21,2,2,Regular Customers
+175,31,23040,26,8,7999,21,73,4,Premium Customers
+176,63,31617,13,23,6817,3,45,4,Premium Customers
+177,48,79206,44,21,7906,17,47,1,Occasional Customers
+178,55,30886,88,26,794,14,2,2,Regular Customers
+179,22,140842,76,20,3508,40,71,3,High Value Customers
+180,43,35779,58,3,838,4,80,4,Premium Customers
+181,54,126275,6,5,1270,17,49,4,Premium Customers
+182,20,128488,22,11,9223,44,20,3,High Value Customers
+183,18,97281,89,2,2224,23,73,3,High Value Customers
+184,36,129842,47,14,6991,18,87,3,High Value Customers
+185,45,134687,11,7,6933,8,1,1,Occasional Customers
+186,25,95105,46,21,4670,7,31,2,Regular Customers
+187,54,139351,25,6,7943,31,28,1,Occasional Customers
+188,59,79799,2,8,5329,38,53,0,Budget Customers
+189,61,129228,1,8,5777,1,17,1,Occasional Customers
+190,63,87206,62,22,5881,41,64,0,Budget Customers
+191,58,62259,15,24,594,37,92,0,Budget Customers
+192,58,117407,53,4,7723,22,20,1,Occasional Customers
+193,53,68063,60,27,5716,10,37,2,Regular Customers
+194,38,20735,35,10,3968,47,67,0,Budget Customers
+195,22,149756,46,7,6771,7,36,3,High Value Customers
+196,31,88699,21,23,1263,33,64,0,Budget Customers
+197,44,148435,81,11,5017,24,35,1,Occasional Customers
+198,59,110379,70,15,3659,47,44,0,Budget Customers
+199,58,130892,84,2,7935,9,14,1,Occasional Customers
+200,37,71370,38,22,3859,33,0,2,Regular Customers
+201,31,89258,67,14,2900,25,4,2,Regular Customers
+202,18,54191,31,14,8173,29,6,3,High Value Customers
+203,34,58406,50,2,9641,28,74,3,High Value Customers
+204,29,21697,35,18,3298,25,41,4,Premium Customers
+205,36,29339,93,15,9547,13,66,4,Premium Customers
+206,57,27557,29,5,649,20,67,4,Premium Customers
+207,62,57191,52,6,5207,18,96,4,Premium Customers
+208,18,137196,95,3,8194,6,17,3,High Value Customers
+209,33,80743,3,11,2418,29,62,4,Premium Customers
+210,54,45622,41,14,4559,36,7,0,Budget Customers
+211,39,64279,14,16,7135,11,0,4,Premium Customers
+212,27,102882,72,7,7295,15,38,3,High Value Customers
+213,39,102642,1,17,1413,30,75,0,Budget Customers
+214,31,49050,66,14,7518,16,62,4,Premium Customers
+215,38,23885,70,15,7918,15,35,4,Premium Customers
+216,23,46505,55,20,3913,23,42,2,Regular Customers
+217,46,33576,21,8,9471,20,11,4,Premium Customers
+218,40,112456,16,23,6202,25,42,1,Occasional Customers
+219,25,64355,35,5,1826,17,76,3,High Value Customers
+220,54,54638,20,5,5044,13,36,4,Premium Customers
+221,27,72208,38,14,8919,19,97,3,High Value Customers
+222,41,44391,93,27,1290,44,58,0,Budget Customers
+223,36,86117,16,3,3189,11,16,4,Premium Customers
+224,56,137656,14,13,9022,18,19,1,Occasional Customers
+225,51,141065,100,28,6088,19,12,1,Occasional Customers
+226,62,111309,89,19,6023,40,50,0,Budget Customers
+227,25,129498,51,5,2989,6,77,3,High Value Customers
+228,56,58509,22,28,9744,47,38,0,Budget Customers
+229,28,22112,7,24,4488,4,10,4,Premium Customers
+230,45,71441,31,27,5677,15,69,4,Premium Customers
+231,44,83054,24,17,2213,8,36,2,Regular Customers
+232,22,140654,51,13,542,21,56,2,Regular Customers
+233,52,44397,45,9,2502,2,10,4,Premium Customers
+234,58,37105,73,1,7157,29,38,4,Premium Customers
+235,54,73485,14,11,9453,49,74,0,Budget Customers
+236,37,101737,64,13,7671,21,2,1,Occasional Customers
+237,52,132366,89,3,3669,28,63,3,High Value Customers
+238,57,144014,35,3,2026,8,25,1,Occasional Customers
+239,63,144956,21,28,5881,47,90,0,Budget Customers
+240,55,62577,34,2,3569,33,95,0,Budget Customers
+241,34,138829,18,22,7940,48,17,1,Occasional Customers
+242,50,92869,92,13,5987,43,57,0,Budget Customers
+243,27,57131,80,23,2960,34,64,0,Budget Customers
+244,55,65553,63,20,5622,24,88,0,Budget Customers
+245,24,145375,93,1,9263,27,8,3,High Value Customers
+246,29,82167,36,27,6327,44,81,0,Budget Customers
+247,59,43267,3,18,9485,31,33,4,Premium Customers
+248,45,61022,87,24,9095,40,73,0,Budget Customers
+249,39,120111,59,18,9083,33,91,3,High Value Customers
+250,61,103702,55,3,5976,1,77,4,Premium Customers
+251,62,112155,67,2,9493,33,6,1,Occasional Customers
+252,24,131481,71,14,651,7,37,2,Regular Customers
+253,22,61386,34,1,1929,42,23,3,High Value Customers
+254,51,101171,95,13,6894,9,8,1,Occasional Customers
+255,57,73538,26,29,8708,42,51,0,Budget Customers
+256,44,137351,35,19,1212,7,17,2,Regular Customers
+257,27,29973,47,15,4382,29,72,4,Premium Customers
+258,60,31607,46,24,7283,46,82,0,Budget Customers
+259,36,34972,8,21,8196,8,99,4,Premium Customers
+260,62,113297,45,17,9447,1,6,1,Occasional Customers
+261,42,36296,100,5,4345,36,90,0,Budget Customers
+262,18,88773,76,26,9457,42,35,3,High Value Customers
+263,44,27485,4,21,3267,19,42,4,Premium Customers
+264,26,127684,29,21,5258,21,52,3,High Value Customers
+265,35,62288,89,1,6952,28,75,3,High Value Customers
+266,46,81172,51,28,1731,5,10,2,Regular Customers
+267,58,34918,29,15,2713,11,35,4,Premium Customers
+268,25,125080,27,3,2388,20,43,3,High Value Customers
+269,33,117030,9,4,7860,30,43,3,High Value Customers
+270,37,116973,61,8,6490,48,55,3,High Value Customers
+271,30,123938,13,18,7364,42,99,3,High Value Customers
+272,39,71340,45,22,5855,41,12,0,Budget Customers
+273,41,95517,99,16,7026,32,83,3,High Value Customers
+274,48,30099,3,27,4529,10,57,4,Premium Customers
+275,43,149396,47,14,9357,29,96,3,High Value Customers
+276,56,105531,27,22,9760,22,4,1,Occasional Customers
+277,64,63160,9,15,4137,28,84,0,Budget Customers
+278,29,133388,89,18,7205,45,83,3,High Value Customers
+279,22,77133,57,18,9193,26,52,3,High Value Customers
+280,64,117306,20,11,8782,16,15,1,Occasional Customers
+281,56,137737,35,17,8786,26,34,1,Occasional Customers
+282,18,58449,70,19,1304,8,38,2,Regular Customers
+283,30,28981,100,3,3842,26,63,3,High Value Customers
+284,26,88581,46,20,8259,44,59,3,High Value Customers
+285,61,108406,40,3,3334,40,84,0,Budget Customers
+286,38,41603,87,29,2227,19,65,2,Regular Customers
+287,27,35014,18,4,2018,14,95,4,Premium Customers
+288,50,47514,1,8,8496,33,56,4,Premium Customers
+289,52,80230,24,11,6433,13,72,4,Premium Customers
+290,20,92568,3,8,7656,39,57,3,High Value Customers
+291,29,32498,51,17,7663,27,66,4,Premium Customers
+292,35,133104,18,16,9952,36,8,1,Occasional Customers
+293,53,63469,92,28,2689,38,28,0,Budget Customers
+294,36,68935,58,27,2932,30,83,0,Budget Customers
+295,39,138151,19,18,1148,2,56,2,Regular Customers
+296,62,74061,82,18,5575,40,96,0,Budget Customers
+297,64,114837,39,26,2203,43,58,0,Budget Customers
+298,61,77649,1,28,5617,19,82,0,Budget Customers
+299,36,51128,81,14,2643,7,49,2,Regular Customers
+300,60,65113,46,18,5776,21,11,1,Occasional Customers
